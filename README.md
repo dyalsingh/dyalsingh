@@ -21,8 +21,9 @@
 ![GitLab](https://img.shields.io/badge/gitlab-%23181717.svg?style=flat&logo=gitlab&logoColor=white)
 ![Jira](https://img.shields.io/badge/jira-%230A0FFF.svg?style=flat&logo=jira&logoColor=white)
 ![Kubernetes](https://img.shields.io/badge/kubernetes-%23326ce5.svg?style=flat&logo=kubernetes&logoColor=white)
-![Portfolio](https://img.shields.io/badge/Portfolio-%23000000.svg?style=flat&logo=firefox&logoColor=#FF7139)<img width="929" height="496" alt="image" src="https://github.com/user-attachments/assets/25ce3614-f317-4545-98f8-2c06a545b1a6" />
+![Portfolio](https://img.shields.io/badge/Portfolio-%23000000.svg?style=flat&logo=firefox&logoColor=#FF7139)<img width="929" height="496" 
 
+---
 
 <img src="https://raw.githubusercontent.com/dyalsingh/dyalsingh/output/github-snake-dark.svg" />
 
