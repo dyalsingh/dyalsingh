@@ -1,158 +1,23 @@
 <h2 align="left">
 Hi, I'm Dyal Singh
 </h2>
+About Me<br><br>Currently working on: Cloud-native DevOps projects using AWS, Kubernetes, Docker, CI/CD pipelines, Python, Developed backend APIs for DevOps automation tools<br><br>Looking to collaborate on: DevOps, cloud infrastructure, automation, and open-source projects<br><br>Looking for help with: Advanced Kubernetes concepts, observability, and production system design<br><br>Currently learning: Terraform best practices, EKS internals, and reliability engineering<br><br>Ask me about: Docker, Kubernetes, AWS, CI/CD pipelines, DevOps, and C++<br><br>Fun fact: Most of my debugging happens late at night, powered by music and caffeine
 
-<p align="left">
-DevOps & Cloud Engineer • India
-</p>
 
-<p align="left">
-Final-year Computer Science student specializing in cloud-native DevOps engineering.  
-I build production-grade infrastructure using Docker, Kubernetes, AWS, Terraform, and CI/CD pipelines.
-</p>
+## 🌐 Socials:
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/dyalsingh__) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/dyalsingh2003/) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:dyalsinghh@gmail.com) 
 
-<p align="left">
-Special thanks to&nbsp;
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spotify/spotify-original.svg"
-     height="18"
-     style="vertical-align: middle;"
-     alt="Spotify" />
-&nbsp;Spotify
-&nbsp;and&nbsp;
-<img src="https://cdn-icons-png.flaticon.com/512/3050/3050482.png"
-     height="18"
-     style="vertical-align: middle;"
-     alt="Caffeine" />
-&nbsp;Caffeine
-&nbsp;for keeping the pipelines running.
-</p>
+# 💻 Tech Stack:
+![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=flat&logo=c%2B%2B&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=flat&logo=python&logoColor=ffdd54) ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=flat&logo=amazon-aws&logoColor=white) ![Heroku](https://img.shields.io/badge/heroku-%23430098.svg?style=flat&logo=heroku&logoColor=white) ![Cloudflare](https://img.shields.io/badge/Cloudflare-F38020?style=flat&logo=Cloudflare&logoColor=white) ![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=flat&logo=fastapi) ![Nginx](https://img.shields.io/badge/nginx-%23009639.svg?style=flat&logo=nginx&logoColor=white) ![Jenkins](https://img.shields.io/badge/jenkins-%232C5263.svg?style=flat&logo=jenkins&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=flat&logo=mysql&logoColor=white) ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=flat&logo=Matplotlib&logoColor=black) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=flat&logo=numpy&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=flat&logo=pandas&logoColor=white) ![GitLab CI](https://img.shields.io/badge/gitlab%20CI-%23181717.svg?style=flat&logo=gitlab&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=flat&logo=git&logoColor=white) ![GitHub Actions](https://img.shields.io/badge/github%20actions-%232671E5.svg?style=flat&logo=githubactions&logoColor=white) ![GitLab](https://img.shields.io/badge/gitlab-%23181717.svg?style=flat&logo=gitlab&logoColor=white) ![Jira](https://img.shields.io/badge/jira-%230A0FFF.svg?style=flat&logo=jira&logoColor=white) ![Kubernetes](https://img.shields.io/badge/kubernetes-%23326ce5.svg?style=flat&logo=kubernetes&logoColor=white) ![Portfolio](https://img.shields.io/badge/Portfolio-%23000000.svg?style=flat&logo=firefox&logoColor=#FF7139)
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=dyalsingh&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
+![](https://nirzak-streak-stats.vercel.app/?user=dyalsingh&theme=dark&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=dyalsingh&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
-<hr/>
+### ✍️ Random Dev Quote
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
-<div align="center">
-  <picture>
-    <source 
-      srcset="https://github-readme-stats.vercel.app/api?username=dyalsingh&show_icons=true&theme=github_dark&hide_border=true"
-      media="(prefers-color-scheme: dark)"
-    />
-    <img 
-      src="https://github-readme-stats.vercel.app/api?username=dyalsingh&show_icons=true&theme=default&hide_border=true"
-      height="150"
-    />
-  </picture>
+---
+[![](https://visitcount.itsvg.in/api?id=dyalsingh&icon=0&color=0)](https://visitcount.itsvg.in)
 
-  <picture>
-    <source 
-      srcset="https://github-readme-stats.vercel.app/api/top-langs?username=dyalsingh&layout=compact&theme=github_dark&hide_border=true"
-      media="(prefers-color-scheme: dark)"
-    />
-    <img 
-      src="https://github-readme-stats.vercel.app/api/top-langs?username=dyalsingh&layout=compact&theme=default&hide_border=true"
-      height="150"
-    />
-  </picture>
-</div>
-
-<hr/>
-
-<img align="right"
-     height="150"
-     src="https://image2url.com/r2/default/gifs/1768938712967-d7ba79be-5566-414c-8e40-6b54dfff52a6.gif" />
-
-<h3 align="left">Tech Stack</h3>
-
-<div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="32"/>
-  <img width="14"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kubernetes/kubernetes-plain.svg" height="32"/>
-  <img width="14"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original.svg" height="32"/>
-  <img width="14"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/terraform/terraform-original.svg" height="32"/>
-  <img width="14"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="32"/>
-  <img width="14"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" height="32"/>
-  <img width="14"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="32"/>
-</div>
-
-<hr/>
-
-<h3 align="left">What I Work On</h3>
-
-<ul>
-  <li>Cloud infrastructure on AWS (EC2, ECS, ECR, VPC, IAM, CloudWatch, WAF)</li>
-  <li>Container orchestration with Kubernetes (EKS, KIND)</li>
-  <li>CI/CD pipelines using GitHub Actions, GitLab CI, Jenkins</li>
-  <li>Infrastructure as Code using Terraform</li>
-  <li>Backend systems with FastAPI & REST APIs</li>
-  <li>AI-powered DevOps tooling using OpenAI APIs</li>
-  <li>200+ DSA problems solved using C++</li>
-</ul>
-
-<hr/>
-
-<h3 align="left">Featured Projects</h3>
-
-<p><b>DevOps ChatOps Bot with AI Summarization</b></p>
-<ul>
-  <li>Slack bot built with FastAPI for infrastructure and application monitoring</li>
-  <li>LLM-powered root cause analysis for Kubernetes failures</li>
-  <li>Reduced mean time to detection (MTTD) by 40%</li>
-  <li>Dockerized and secured using Kubernetes RBAC</li>
-</ul>
-
-<p><b>Kubernetes Node.js Application Deployment</b></p>
-<ul>
-  <li>Node.js TODO app deployed on Kubernetes using KIND</li>
-  <li>99% uptime using liveness and readiness probes</li>
-  <li>Zero-downtime rolling updates</li>
-  <li>Declarative GitOps-style YAML configuration</li>
-</ul>
-
-<p><b>Serverless Container Deployment (AWS ECS Fargate)</b></p>
-<ul>
-  <li>Serverless container orchestration using ECS and Fargate</li>
-  <li>Multi-stage Docker builds pushed to Amazon ECR</li>
-  <li>Centralized logging and monitoring via CloudWatch</li>
-  <li>Reduced infrastructure provisioning effort by 90%</li>
-</ul>
-
-<hr/>
-
-<h3 align="left">Education</h3>
-
-<p>
-B.Tech in Computer Science<br/>
-Hitkarini College of Engineering & Technology, Jabalpur<br/>
-Graduation: June 2026
-</p>
-
-<hr/>
-
-<h3 align="left">Certifications & Community Work</h3>
-
-<ul>
-  <li>AWS EKS Training Badge</li>
-  <li>AWS Technical Architect (Training)</li>
-  <li>SQL & Decode with C++</li>
-  <li>DevOps Workshop Facilitator (50+ students)</li>
-</ul>
-
-<hr/>
-
-<h3 align="left">Connect With Me</h3>
-
-<div align="left">
-  <a href="https://www.linkedin.com/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
-  </a>
-  <a href="mailto:dyalsinghh@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
-  </a>
-</div>
-
-<hr/>
-
-<img src="https://raw.githubusercontent.com/maurodesouza/maurodesouza/output/snake.svg" alt="Contribution graph animation"/>
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
