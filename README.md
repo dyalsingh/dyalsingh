@@ -15,7 +15,7 @@ About Me<br><br>Currently working on: Cloud-native DevOps projects using AWS, Ku
 
 
 
-
+---
 
 - uses: Platane/snk@v3
   with:
@@ -24,11 +24,6 @@ About Me<br><br>Currently working on: Cloud-native DevOps projects using AWS, Ku
       dist/github-snake.svg
       dist/github-snake-dark.svg?palette=github-dark
       dist/github-snake.gif?color_snake=#2ea44f&color_dots=#ebedf0,#9be9a8,#40c463,#30a14e,#216e39&color_background=#0d1117
-
-
-
-
-
 
 ---
 
