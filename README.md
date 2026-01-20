@@ -8,6 +8,15 @@ About Me<br><br>Currently working on: Cloud-native DevOps projects using AWS, Ku
 
 ---
 
+
+<img align="right" height="150" src="https://image2url.com/r2/default/gifs/1768938712967-d7ba79be-5566-414c-8e40-6b54dfff52a6.gif" />
+
+
+
+
+
+
+
 - uses: Platane/snk@v3
   with:
     github_user_name: ${{ github.repository_owner }}
