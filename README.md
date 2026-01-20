@@ -8,7 +8,15 @@ About Me<br><br>Currently working on: Cloud-native DevOps projects using AWS, Ku
 
 ---
 
-<img align="right" height="150" src="https://image2url.com/r2/default/gifs/1768938712967-d7ba79be-5566-414c-8e40-6b54dfff52a6.gif" />
+- uses: Platane/snk@v3
+  with:
+    github_user_name: ${{ github.repository_owner }}
+    outputs: |
+      dist/github-snake.svg
+      dist/github-snake-dark.svg?palette=github-dark
+      dist/github-snake.gif?color_snake=#2ea44f&color_dots=#ebedf0,#9be9a8,#40c463,#30a14e,#216e39&color_background=#0d1117
+
+
 
 
 
