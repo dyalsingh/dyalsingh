@@ -1,5 +1,5 @@
 <h2 align="left">
-Hi 👋! I'm Dyal Singh — DevOps & Cloud Engineer from India 🇮🇳
+Hi 👋! I'm Dyal Singh — DevOps & Cloud Engineer 🧑‍💻
 </h2>
 
 <p align="left">
@@ -20,7 +20,8 @@ Special thanks to <b>Spotify 🎧</b> and <b>Caffeine ☕</b> for keeping the pi
 
 ---
 
-<img align="right" height="150" src="https://i.imgflip.com/65efzo.gif" />
+<img align="right" height="150" src="https://image2url.com/r2/default/gifs/1768938712967-d7ba79be-5566-414c-8e40-6b54dfff52a6.gif" />
+
 
 ---
 
