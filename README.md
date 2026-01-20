@@ -1,4 +1,4 @@
-<h2 align="left"> Hi 👋! I'm Dyal Singh — DevOps & Cloud Engineer 🧑‍💻 </h2>
+<h2 align="left"> Hi 👋! I'm Dyal Singh — Computer Science Engineer 🧑‍💻 </h2>
 
 About Me<br><br>
 Currently working on: Cloud-native DevOps projects using AWS, Kubernetes, Docker, CI/CD pipelines, Python, and backend API development for DevOps automation tools<br><br>
@@ -19,20 +19,8 @@ Fun fact: Most of my debugging happens late at night, powered by music and caffe
 
 <img align="right" height="150" src="https://image2url.com/r2/default/gifs/1768938712967-d7ba79be-5566-414c-8e40-6b54dfff52a6.gif"  />
 
----
-
-<!-- 
-IMPORTANT:
-The snake animation workflow must be placed in:
-.github/workflows/snake.yml
-
-It should NOT be inside README.
--->
-
-<img src="https://raw.githubusercontent.com/dyalsingh/dyalsingh/output/github-snake.svg" alt="Snake animation" />
 
 ---
-
 # 💻 Tech Stack:
 ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=flat&logo=c%2B%2B&logoColor=white)
 ![Python](https://img.shields.io/badge/python-3670A0?style=flat&logo=python&logoColor=ffdd54)
