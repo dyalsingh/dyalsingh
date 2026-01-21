@@ -63,8 +63,6 @@ src="https://image2url.com/r2/default/gifs/1768938712967-d7ba79be-5566-414c-8e40
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=dyalsingh&theme=dark&hide_border=false&layout=compact)
 
 ### ✍️ Quote For You❤️🫵
-
-![Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=github&format=svg)
-
+***Dance like nobody is watching, code like everybody is.***
 
 
