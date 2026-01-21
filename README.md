@@ -45,7 +45,7 @@ I build production-style infrastructure using containers, cloud platforms, and C
 
 <img align="right"
   alt="Coding Cat" 
-  height="180"
+  height="210"
 src="https://image2url.com/r2/default/gifs/1768938712967-d7ba79be-5566-414c-8e40-6b54dfff52a6.gif" />
 ### My Core Interests:
 - ☁️ Cloud infrastructure & container orchestration  
