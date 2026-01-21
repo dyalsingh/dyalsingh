@@ -4,12 +4,10 @@
 I’m a final-year Computer Science student focused on **cloud-native DevOps engineering and software development**.  
 I build production-style infrastructure using containers, cloud platforms, and CI/CD pipelines, while actively strengthening my **software engineering fundamentals through Data Structures & Algorithms in C++**.
 
-
-[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-0e76a8?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/dyalsingh2003/)
-[![Email Badge](https://img.shields.io/badge/-dyalsinghh%40gmail.com-D14836?style=flat&logo=gmail&logoColor=white)](mailto:dyalsinghh@gmail.com)
+### **Connect with me:**
+[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-0e76a8?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/dyalsingh2003/)   [![Email Badge](https://img.shields.io/badge/-dyalsinghh%40gmail.com-D14836?style=flat&logo=gmail&logoColor=white)](mailto:dyalsinghh@gmail.com)
 [![LeetCode Badge](https://img.shields.io/badge/-LeetCode-F89F1B?style=flat&logo=leetcode&logoColor=white)]()
 ![Portfolio](https://img.shields.io/badge/Portfolio-Coming%20Soon-555555?style=flat&logo=firefox&logoColor=white)
-
 
 # 💻 Tech Stack:
 
