@@ -1,4 +1,6 @@
-<h2 align="left"> Hi 👋! I'm Dyal Singh — Computer Science Engineer 🧑‍💻 </h2>
+<img width="1396" height="420" alt="Black Elegant Profile LinkedIn Banner - Made with PosterMyWall (1)" src="https://github.com/user-attachments/assets/e8f673d4-9b9b-4bf6-8558-c5c0085a12b4" />
+<!-- Name -->
+<h1 align="center">Hi 👋! I'm Dyal Singh — Computer Science Engineer 🧑‍💻</h1>
 
 ### Glad to see you here!
 I’m a final-year Computer Science student focused on **cloud-native DevOps engineering and software development**.  
