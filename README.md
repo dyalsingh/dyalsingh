@@ -1,6 +1,6 @@
 <img width="1396" height="420" alt="Black Elegant Profile LinkedIn Banner - Made with PosterMyWall (1)" src="https://github.com/user-attachments/assets/e8f673d4-9b9b-4bf6-8558-c5c0085a12b4" />
 <!-- Name -->
-<h1 align="center">Hi👋! I'm Dyal Singh — Computer Science Engineer🧑‍💻</h1>
+<h1 align="center">Hi👋! I'm Dyal Singh, Computer Science Engineer🧑‍💻</h1>
 
 ### Glad to see you here!
 I’m a final-year Computer Science student focused on **cloud-native DevOps engineering and software development**.  
@@ -8,7 +8,6 @@ I build production-style infrastructure using containers, cloud platforms, and C
 
 ### **Connect with me:**
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-0e76a8?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/dyalsingh2003/)   [![Email Badge](https://img.shields.io/badge/-dyalsinghh%40gmail.com-D14836?style=flat&logo=gmail&logoColor=white)](mailto:dyalsinghh@gmail.com)
-[![LeetCode Badge](https://img.shields.io/badge/-LeetCode-F89F1B?style=flat&logo=leetcode&logoColor=white)](https://leetcode.com/u/dyalsingh__/)
 ![Portfolio](https://img.shields.io/badge/Portfolio-Coming%20Soon-555555?style=flat&logo=firefox&logoColor=white)
 
 # Tech Stack:
